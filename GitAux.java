@@ -1,12 +1,12 @@
 /*
  * To change this template, choose Tools | Templates
- * and open the template in the editor.
  */
 package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @author Alejandro
+ * Diaz Martin
  */
 public class GitAux {
     
